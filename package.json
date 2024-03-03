@@ -1,6 +1,6 @@
 {
   "name": "nbweb3frame",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "best web3 framework",
   "author": "punkwang",
   "private": false,
@@ -93,5 +93,9 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/punkwang/nbweb3frame.git"
   }
 }
